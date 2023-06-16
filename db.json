@@ -1,7 +1,9 @@
 {
   "books": [
     {
-      "title": "Agustin de Hipona",
+      "title": "La Gratia",
+      "author": "Agustín de Hipona",
+      "postDate": "2007-03-16",
       "id": 1
     },
     {
@@ -11,59 +13,80 @@
       "id": 2
     },
     {
-      "author": "asdsdsdsdsd",
-      "title": "sdsdsdsdsdsdsd",
-      "postDate": "2023-06-02",
+      "author": "Desconocido",
+      "title": "Cuento para niños",
+      "postDate": "2014-02-03",
       "id": 4
     },
     {
-      "author": "asdasdsad",
+      "author": "Grupo de autores",
+      "title": "Auto ayuda",
+      "postDate": "2023-06-23",
       "id": 5
     },
     {
-      "title": "asdasd",
+      "title": "Control de salud",
+      "author": "Doctores",
+      "postDate": "2023-06-16",
       "id": 9
     },
     {
-      "title": "asdasd",
+      "title": "Comic",
+      "author": "Stan Lee",
+      "postDate": "2011-02-16",
       "id": 10
     },
     {
-      "author": "asdasdasd",
+      "author": "Stan Lee",
+      "title": "Comic",
+      "postDate": "2001-02-16",
       "id": 11
     },
     {
-      "title": "a",
+      "title": "Educación",
+      "author": "Profesores",
+      "postDate": "2006-03-16",
       "id": 12
     },
     {
-      "title": "2",
+      "title": "Biblia",
+      "author": "Inspirado por Dios",
+      "postDate": "2014-02-16",
       "id": 13
     },
     {
-      "author": "a",
+      "author": "Cesar Millán",
+      "title": "Educación para perros",
+      "postDate": "2009-01-06",
       "id": 14
     },
     {
-      "title": "sadasdsad",
+      "title": "Dragon Ball",
+      "author": "Akira Toriyama",
+      "postDate": "1999-02-16",
       "id": 15
     },
     {
-      "title": "a",
+      "title": "Harry Potter",
+      "author": "Desconocido",
+      "postDate": "2000-01-03",
       "id": 17
     },
     {
-      "title": "aa",
-      "author": null,
+      "title": "La vida",
+      "author": "Desconocido",
+      "postDate": "1996-04-18",
       "id": 18
     },
     {
-      "postDate": "2023-06-15",
+      "postDate": "2010-02-02",
+      "title": "Comic",
+      "author": "Marvel",
       "id": 20
     },
     {
-      "title": "aasdssdsdsd",
-      "author": "asdsadasdasd",
+      "title": "Comic",
+      "author": "Stan Lee",
       "postDate": "2023-06-15",
       "id": 23
     },
@@ -98,6 +121,78 @@
       "nationality": "Alemania",
       "yearOfBirth": "2023-06-14",
       "id": 2
+    },
+    {
+      "name": "Autor 3",
+      "nationality": "Brasil",
+      "yearOfBirth": "1996-02-16",
+      "id": 3
+    },
+    {
+      "name": "Autor Anónimo",
+      "nationality": "Anónimo",
+      "yearOfBirth": "1997-03-16",
+      "id": 4
+    },
+    {
+      "name": "Emmanuel",
+      "nationality": "Israel (Oriente)",
+      "yearOfBirth": "2006-02-08",
+      "id": 5
+    },
+    {
+      "name": "Eduardo Gomez",
+      "nationality": "Venezuela",
+      "yearOfBirth": "1994-03-17",
+      "id": 6
+    },
+    {
+      "name": "Manuel Gonzales",
+      "nationality": "Colombia",
+      "yearOfBirth": "2023-06-17",
+      "id": 7
+    },
+    {
+      "name": "Autor",
+      "nationality": "España",
+      "yearOfBirth": "2009-03-04",
+      "id": 8
+    },
+    {
+      "name": "María López",
+      "nationality": "España",
+      "yearOfBirth": "1967-06-09",
+      "id": 9
+    },
+    {
+      "name": "Diego Guillen",
+      "nationality": "Venezuela",
+      "yearOfBirth": "1982-03-03",
+      "id": 10
+    },
+    {
+      "name": "Alejandro Galindes",
+      "nationality": "Venezuela",
+      "yearOfBirth": "1996-03-16",
+      "id": 11
+    },
+    {
+      "name": "Romeo Ramos",
+      "nationality": "México",
+      "yearOfBirth": "1991-02-27",
+      "id": 12
+    },
+    {
+      "name": "Andrés Gonzales",
+      "nationality": "Uruguay",
+      "yearOfBirth": "1999-02-16",
+      "id": 13
+    },
+    {
+      "name": "Eduardo Martínez",
+      "nationality": "Argelia",
+      "yearOfBirth": "2002-01-29",
+      "id": 14
     }
   ]
 }
