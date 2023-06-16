@@ -1,0 +1,103 @@
+{
+  "books": [
+    {
+      "title": "Agustin de Hipona",
+      "id": 1
+    },
+    {
+      "title": "es nuevoooo",
+      "author": "sadasdasdsadsa",
+      "postDate": "2023-06-15",
+      "id": 2
+    },
+    {
+      "author": "asdsdsdsdsd",
+      "title": "sdsdsdsdsdsdsd",
+      "postDate": "2023-06-02",
+      "id": 4
+    },
+    {
+      "author": "asdasdsad",
+      "id": 5
+    },
+    {
+      "title": "asdasd",
+      "id": 9
+    },
+    {
+      "title": "asdasd",
+      "id": 10
+    },
+    {
+      "author": "asdasdasd",
+      "id": 11
+    },
+    {
+      "title": "a",
+      "id": 12
+    },
+    {
+      "title": "2",
+      "id": 13
+    },
+    {
+      "author": "a",
+      "id": 14
+    },
+    {
+      "title": "sadasdsad",
+      "id": 15
+    },
+    {
+      "title": "a",
+      "id": 17
+    },
+    {
+      "title": "aa",
+      "author": null,
+      "id": 18
+    },
+    {
+      "postDate": "2023-06-15",
+      "id": 20
+    },
+    {
+      "title": "aasdssdsdsd",
+      "author": "asdsadasdasd",
+      "postDate": "2023-06-15",
+      "id": 23
+    },
+    {
+      "title": "Leviatan",
+      "author": "Tomas Hobbes",
+      "postDate": "2023-06-02",
+      "id": 24
+    },
+    {
+      "title": "Nuevo libro",
+      "author": "Autor desconocido",
+      "postDate": "2023-06-07",
+      "id": 25
+    },
+    {
+      "title": "Libro de un cuento",
+      "author": "Alessandro",
+      "postDate": "2023-06-14",
+      "id": 26
+    }
+  ],
+  "authors": [
+    {
+      "name": "Agustin de Hipona",
+      "nationality": "Argelia",
+      "yearOfBirth": "1997-02-13",
+      "id": 1
+    },
+    {
+      "name": "Autor nro2",
+      "nationality": "Alemania",
+      "yearOfBirth": "2023-06-14",
+      "id": 2
+    }
+  ]
+}
